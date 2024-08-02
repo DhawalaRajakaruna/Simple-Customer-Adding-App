@@ -1,2 +1,3 @@
-# Simple Wave viewer
-I have created a small application which views simple sinosoidal waves when inputs the amplitude initial phase ,angular frequency.
+# Customer Adding App
+I create a simple customer adding interface using python.
+
